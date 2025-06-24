@@ -1,0 +1,7 @@
+Enable persistent storage of user data and food information
+
+Implements PostgreSQL database with SQLAlchemy models for food items, tracker data, favorites, and insights.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: b1e3d581-f4ed-4394-bb00-18f616a4d359
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/b6751b19-1cee-4c88-b8a4-fa976f9474f0/a045d4a8-d0ff-4602-b6fe-2dc92c7a53c3.jpg
